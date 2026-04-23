@@ -1,97 +1,102 @@
 [
   {
-    "source": "ray_dalio",
-    "target": "principles",
+    "source": "charlie_munger",
+    "target": "mental_models",
     "type": "advocates",
-    "weight": 0.96,
+    "weight": 0.95,
     "importance": "core",
-    "direction": "forward"
+    "direction": "forward",
+    "start_year": 1970
   },
   {
-    "source": "ray_dalio",
-    "target": "systems_thinking",
+    "source": "charlie_munger",
+    "target": "multidisciplinary",
     "type": "advocates",
-    "weight": 0.94,
+    "weight": 0.92,
     "importance": "core",
-    "direction": "forward"
+    "direction": "forward",
+    "start_year": 1970
   },
   {
-    "source": "principles",
-    "target": "radical_transparency",
+    "source": "mental_models",
+    "target": "inversion",
     "type": "applies_to",
-    "weight": 0.9,
-    "importance": "core",
-    "direction": "forward"
-  },
-  {
-    "source": "systems_thinking",
-    "target": "meritocracy",
-    "type": "complements",
     "weight": 0.88,
     "importance": "core",
     "direction": "forward"
   },
   {
-    "source": "ray_dalio",
-    "target": "bridgewater",
-    "type": "founded_by",
-    "weight": 0.98,
-    "importance": "core",
-    "direction": "forward"
-  },
-  {
-    "source": "bridgewater",
-    "target": "macro_investing",
-    "type": "exemplified_by",
-    "weight": 0.92,
-    "importance": "important",
-    "direction": "forward"
-  },
-  {
-    "source": "macro_investing",
-    "target": "diversification",
-    "type": "supports",
+    "source": "multidisciplinary",
+    "target": "psychology",
+    "type": "complements",
     "weight": 0.85,
     "importance": "important",
     "direction": "forward"
   },
   {
-    "source": "diversification",
-    "target": "all_weather",
+    "source": "inversion",
+    "target": "bias_avoidance",
     "type": "leads_to",
-    "weight": 0.88,
-    "importance": "important",
-    "direction": "forward"
-  },
-  {
-    "source": "principles",
-    "target": "evolution",
-    "type": "applies_to",
     "weight": 0.82,
     "importance": "important",
     "direction": "forward"
   },
   {
-    "source": "evolution",
-    "target": "adaptation",
-    "type": "leads_to",
+    "source": "circle_competence",
+    "target": "rational_thinking",
+    "type": "supports",
     "weight": 0.8,
     "importance": "important",
     "direction": "forward"
   },
   {
-    "source": "ray_dalio",
-    "target": "principles_book",
-    "type": "created_by",
+    "source": "charlie_munger",
+    "target": "berkshire",
+    "type": "led_by",
     "weight": 0.9,
+    "importance": "core",
+    "direction": "forward",
+    "start_year": 1983
+  },
+  {
+    "source": "charlie_munger",
+    "target": "buffett",
+    "type": "collaborates_with",
+    "weight": 0.95,
+    "importance": "core",
+    "direction": "bidirectional",
+    "start_year": 1978
+  },
+  {
+    "source": "buffett",
+    "target": "collaboration",
+    "type": "created_by",
+    "weight": 0.92,
+    "importance": "core",
+    "direction": "forward",
+    "start_year": 1978
+  },
+  {
+    "source": "mental_models",
+    "target": "circle_competence",
+    "type": "exemplified_by",
+    "weight": 0.78,
     "importance": "important",
     "direction": "forward"
   },
   {
-    "source": "meritocracy",
-    "target": "radical_transparency",
-    "type": "supports",
+    "source": "psychology",
+    "target": "bias_avoidance",
+    "type": "leads_to",
     "weight": 0.85,
+    "importance": "important",
+    "direction": "forward"
+  },
+  {
+    "source": "charlie_munger",
+    "target": "long_term",
+    "type": "advocates",
+    "weight": 0.88,
     "importance": "important",
     "direction": "forward"
   }

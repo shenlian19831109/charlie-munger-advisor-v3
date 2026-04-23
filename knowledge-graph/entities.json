@@ -1,73 +1,73 @@
 [
   {
-    "id": "ray_dalio",
-    "name": "Ray Dalio",
+    "id": "charlie_munger",
+    "name": "Charlie Munger",
     "type": "Person",
     "importance": "core"
   },
   {
-    "id": "principles",
-    "name": "Principles-Based Thinking",
+    "id": "mental_models",
+    "name": "Mental Models",
     "type": "Concept",
     "importance": "core"
   },
   {
-    "id": "systems_thinking",
-    "name": "Systems Thinking",
+    "id": "multidisciplinary",
+    "name": "Multidisciplinary Thinking",
     "type": "Concept",
     "importance": "core"
   },
   {
-    "id": "radical_transparency",
-    "name": "Radical Transparency",
+    "id": "inversion",
+    "name": "Inversion Thinking",
     "type": "Method",
     "importance": "core"
   },
   {
-    "id": "meritocracy",
-    "name": "Idea Meritocracy",
+    "id": "circle_competence",
+    "name": "Circle of Competence",
     "type": "Concept",
-    "importance": "core"
+    "importance": "important"
   },
   {
-    "id": "bridgewater",
-    "name": "Bridgewater Associates",
+    "id": "berkshire",
+    "name": "Berkshire Hathaway",
     "type": "Organization",
     "importance": "core"
   },
   {
-    "id": "macro_investing",
-    "name": "Macro Investing",
-    "type": "Method",
+    "id": "buffett",
+    "name": "Warren Buffett",
+    "type": "Person",
     "importance": "important"
   },
   {
-    "id": "diversification",
-    "name": "Portfolio Diversification",
-    "type": "Method",
-    "importance": "important"
+    "id": "collaboration",
+    "name": "Buffett-Munger Partnership",
+    "type": "Event",
+    "importance": "core"
   },
   {
-    "id": "all_weather",
-    "name": "All-Weather Portfolio",
-    "type": "Product",
-    "importance": "important"
-  },
-  {
-    "id": "principles_book",
-    "name": "Principles (Book)",
-    "type": "Product",
-    "importance": "important"
-  },
-  {
-    "id": "evolution",
-    "name": "Evolutionary Thinking",
+    "id": "psychology",
+    "name": "Psychology & Behavior",
     "type": "Concept",
     "importance": "important"
   },
   {
-    "id": "adaptation",
-    "name": "Adaptive Systems",
+    "id": "rational_thinking",
+    "name": "Rational Thinking",
+    "type": "Method",
+    "importance": "important"
+  },
+  {
+    "id": "bias_avoidance",
+    "name": "Cognitive Bias Avoidance",
+    "type": "Method",
+    "importance": "important"
+  },
+  {
+    "id": "long_term",
+    "name": "Long-term Value Creation",
     "type": "Concept",
     "importance": "important"
   }
